@@ -40,7 +40,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 }
 
 h1, .h1 {
-  font-size: 45px;
+  font-size: 52px;
   text-transform: none;
 }
 
@@ -81,7 +81,7 @@ h6, .h6 {
 }
 
 .btn {
-  padding: 18px 38px;
+  padding: 18px 25px;
   border: 2px solid transparent;
   text-transform: uppercase;
   border-radius: 0px;
@@ -91,8 +91,8 @@ h6, .h6 {
   box-shadow: rgb(153, 153, 153) 0px 0px 0px 0px;
 }
 .btn:focus {
-  outline: 0px;
-  border: 0px;
+  /* outline: 0px;
+  border: 0px; */
   box-shadow: none;
 }
 
